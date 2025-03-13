@@ -68,5 +68,6 @@ Open train_dataset_solved.xlsx for processed insights.
 ## 🔗 Connect With Me
 
 www.linkedin.com/in/inam-ul-haq0
+
 https://github.com/Inam9403/sales-analysis-portfolio
 
