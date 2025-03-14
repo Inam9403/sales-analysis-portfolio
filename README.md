@@ -5,7 +5,7 @@ This project focuses on analyzing sales data using Excel . It explores trends, c
 
 ## 🚀 Key Insights & Findings
 
-# Total Profit & Sales by Category: Analyzed profit margins across different product categories.
+### Total Profit & Sales by Category: Analyzed profit margins across different product categories.
 
 Best-Selling Products: Identified top-performing products in terms of total sales.
 
