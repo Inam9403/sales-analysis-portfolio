@@ -1,7 +1,7 @@
 # sales-analysis-portfolio
 ## 🌟 Project Overview
 
-This project focuses on analyzing sales data using Excel and Power BI. It explores trends, customer behavior, and key revenue drivers. The dataset includes sales transactions categorized by product, region, shipping mode, and customer segments.
+This project focuses on analyzing sales data using Excel . It explores trends, customer behavior, and key revenue drivers. The dataset includes sales transactions categorized by product, region, shipping mode, and customer segments.
 
 ## 🚀 Key Insights & Findings
 
